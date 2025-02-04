@@ -1,0 +1,42 @@
+ol{
+    margin: 20px;
+}
+.p1,.p3,.p4,.p23{
+    background-color: #ececec;
+    border: 1px #EDEDED;
+    padding: 18px 23px 18px 23px;
+    color: #858585;
+    border-radius: 10px;
+    
+}
+.p2,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15,.p16,.p17,.p18,.p19,.p20,.p21,.p22{
+    border: 1px solid #D8D8D8;
+    border-radius: 5px;
+    padding: 23px;
+    color: #10acee;
+}
+#bgcolor{
+    background-color:slategray;
+}
+#t1{
+    background-color:transparent;
+    color: rgb(48, 45, 45);
+}
+#t2{
+    background-color:transparent;
+    color: rgb(48, 45, 45);
+}
+.black{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    top: 19719px;
+left: 139px;
+width: 677px;
+height: 401px;
+    
+}
+.main{
+    margin: 30px 139px 10px 139px;
+    color: #858585;
+}
